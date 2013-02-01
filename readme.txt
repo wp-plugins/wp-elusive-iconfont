@@ -55,7 +55,11 @@ __Credits__
 
 __Contributors Welcome__
 
-*   Submit a [pull request on Github](https://github.com/zulfnore/wpelusiveiconfont-plugin)
+*   Submit a [pull request on Github](https://github.com/zulfnore/wp-elusive-iconfont/pull/new/master)
+
+__Support Us__
+
+ * If you use and enjoy this plugin please rate and vote for it - thanks :)  
 
 __Author__
 
